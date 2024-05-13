@@ -1,0 +1,1746 @@
+[
+    {
+        "name": "Advanced Radiation Suit [ARM]",
+        "code": "0003307A"
+    },
+    {
+        "name": "All-Purpose Science Suit [ARM]",
+        "code": "000CB605"
+    },
+    {
+        "name": "Apocalypse Gladiator Armor [ARM]",
+        "code": "000CB5F6"
+    },
+    {
+        "name": "Apocalypse Gladiator Helmet [ARM]",
+        "code": "000CB5F7"
+    },
+    {
+        "name": "Armored Vault 101 Jumpsuit [ARM]",
+        "code": "0006C587"
+    },
+    {
+        "name": "Army Power Armor [ARM]",
+        "code": "00061A72"
+    },
+    {
+        "name": "Athlete of the Wastes Outfit [ARM]",
+        "code": "000340FB"
+    },
+    {
+        "name": "Ballcap with Glasses [ARM]",
+        "code": "00028FFA"
+    },
+    {
+        "name": "Bandana [ARM]",
+        "code": "00073D57"
+    },
+    {
+        "name": "Biker Goggles [ARM]",
+        "code": "0009B188"
+    },
+    {
+        "name": "BirthSkirt [ARM]",
+        "code": "0007CFF0"
+    },
+    {
+        "name": "Blast Off Helmet [ARM]",
+        "code": "0007494C"
+    },
+    {
+        "name": "Blast Off Pajamas [ARM]",
+        "code": "0005B6EA"
+    },
+    {
+        "name": "Boogeyman's Hood [ARM]",
+        "code": "0008F775"
+    },
+    {
+        "name": "Brahmin-Skin Outfit [ARM]",
+        "code": "00018DE5"
+    },
+    {
+        "name": "Brotherhood Power Armor [ARM]",
+        "code": "00075201"
+    },
+    {
+        "name": "Brotherhood Power Helmet [ARM]",
+        "code": "00075203"
+    },
+    {
+        "name": "Brotherhood Scribe Robe [ARM]",
+        "code": "000854CF"
+    },
+    {
+        "name": "Button's Wig [ARM]",
+        "code": "0008A6DD"
+    },
+    {
+        "name": "Child Blastoff Helmet [ARM]",
+        "code": "0007C109"
+    },
+    {
+        "name": "Chinese Commando Hat [ARM]",
+        "code": "00078646"
+    },
+    {
+        "name": "Chinese Jumpsuit [ARM]",
+        "code": "000340D2"
+    },
+    {
+        "name": "Colonel Autumn's Uniform [ARM]",
+        "code": "0005157E"
+    },
+    {
+        "name": "Combat Armor [ARM]",
+        "code": "00020420"
+    },
+    {
+        "name": "Combat Helmet [ARM]",
+        "code": "00020426"
+    },
+    {
+        "name": "Commando Armor [ARM]",
+        "code": "000CB544"
+    },
+    {
+        "name": "Composite Recon Armor [ARM]",
+        "code": "000CB5FA"
+    },
+    {
+        "name": "Composite Recon Helmet [ARM]",
+        "code": "000CB5FB"
+    },
+    {
+        "name": "Crow's Eyebot Helmet [ARM]",
+        "code": "000B17A0"
+    },
+    {
+        "name": "Dad's Wasteland Outfit [ARM]",
+        "code": "00079F09"
+    },
+    {
+        "name": "Defender Armor [ARM]",
+        "code": "000CB543"
+    },
+    {
+        "name": "Dirty Chinese Jumpsuit [ARM]",
+        "code": "000CB603"
+    },
+    {
+        "name": "Dirty Pre-War Businesswear [ARM]",
+        "code": "0005C682"
+    },
+    {
+        "name": "Dirty Pre-War Casualwear [ARM]",
+        "code": "000340CF"
+    },
+    {
+        "name": "Dirty Pre-War Kid's Outfit [ARM]",
+        "code": "000340C4"
+    },
+    {
+        "name": "Dirty Pre-War Parkstroller Outfit [ARM]",
+        "code": "0005BB70"
+    },
+    {
+        "name": "Dirty Pre-War Relaxedwear [ARM]",
+        "code": "0005BB6F"
+    },
+    {
+        "name": "Dirty Pre-War Spring Outfit [ARM]",
+        "code": "00066C71"
+    },
+    {
+        "name": "Doctor Li's Glasses [ARM]",
+        "code": "0005C9A0"
+    },
+    {
+        "name": "Doctor Li's Outfit [ARM]",
+        "code": "000340DA"
+    },
+    {
+        "name": "Elder Lyons' Robe [ARM]",
+        "code": "00087274"
+    },
+    {
+        "name": "Enclave Officer Hat [ARM]",
+        "code": "00078647"
+    },
+    {
+        "name": "Enclave Officer Uniform [ARM]",
+        "code": "000340DE"
+    },
+    {
+        "name": "Enclave Power Armor [ARM]",
+        "code": "00023B62"
+    },
+    {
+        "name": "Enclave Scientist Outfit [ARM]",
+        "code": "0001B5BD"
+    },
+    {
+        "name": "Enclave Shocktrooper Armor [ARM]",
+        "code": "000CB5F3"
+    },
+    {
+        "name": "Enclave Shocktrooper Helmet [ARM]",
+        "code": "000CB5F4"
+    },
+    {
+        "name": "Environment Suit [ARM]",
+        "code": "000C09D4"
+    },
+    {
+        "name": "Eulogy Jones' Hat [ARM]",
+        "code": "00034126"
+    },
+    {
+        "name": "Explorer's Gear [ARM]",
+        "code": "000CB549"
+    },
+    {
+        "name": "Eyebot Helmet [ARM]",
+        "code": "0004E6A0"
+    },
+    {
+        "name": "Eyeglasses [ARM]",
+        "code": "000340FD"
+    },
+    {
+        "name": "Ghoul Mask [ARM]",
+        "code": "0001DC1C"
+    },
+    {
+        "name": "GlassesReadingChild [ARM]",
+        "code": "0005DC82"
+    },
+    {
+        "name": "Grimy Pre-War Businesswear [ARM]",
+        "code": "000B1056"
+    },
+    {
+        "name": "Hand-Me-Down Raider Armor [ARM]",
+        "code": "000CB5FE"
+    },
+    {
+        "name": "Handyman Jumpsuit [ARM]",
+        "code": "000BF6FD"
+    },
+    {
+        "name": "Hat of the People [ARM]",
+        "code": "000CB604"
+    },
+    {
+        "name": "Head Wrap [ARM]",
+        "code": "00074336"
+    },
+    {
+        "name": "Highway Scar Armor [ARM]",
+        "code": "000CB5FF"
+    },
+    {
+        "name": "Hockey Mask [ARM]",
+        "code": "00033598"
+    },
+    {
+        "name": "Junior Officer Outfit [ARM]",
+        "code": "000340F9"
+    },
+    {
+        "name": "Kid's Ballcap with Glasses [ARM]",
+        "code": "0009B185"
+    },
+    {
+        "name": "Kid's Baseball Cap [ARM]",
+        "code": "000340C1"
+    },
+    {
+        "name": "Kid's Cave Rat Outfit [ARM]",
+        "code": "000340E4"
+    },
+    {
+        "name": "Kid's Murray the Mole Hat [ARM]",
+        "code": "00078643"
+    },
+    {
+        "name": "Kid's Party Hat [ARM]",
+        "code": "00028FF8"
+    },
+    {
+        "name": "Kid's Police Hat [ARM]",
+        "code": "000340E1"
+    },
+    {
+        "name": "Lab Technician Outfit [ARM]",
+        "code": "000340D7"
+    },
+    {
+        "name": "Leather Armor [ARM]",
+        "code": "00020423"
+    },
+    {
+        "name": "Leather Armor [ARM]",
+        "code": "0002DC05"
+    },
+    {
+        "name": "Ledoux's Hockey Mask [ARM]",
+        "code": "0007401C"
+    },
+    {
+        "name": "Lesko's Lab Coat [ARM]",
+        "code": "000C24F9"
+    },
+    {
+        "name": "Lincoln's Hat [ARM]",
+        "code": "0004445B"
+    },
+    {
+        "name": "Linden's Outcast Power Armor [ARM]",
+        "code": "00070877"
+    },
+    {
+        "name": "Lucky Shades [ARM]",
+        "code": "000CB54B"
+    },
+    {
+        "name": "Lyons' Pride Power Armor [ARM]",
+        "code": "00061A73"
+    },
+    {
+        "name": "MacCready's Helmet [ARM]",
+        "code": "0002D11B"
+    },
+    {
+        "name": "Makeshift Gas Mask [ARM]",
+        "code": "000C111A"
+    },
+    {
+        "name": "Maple's Garb [ARM]",
+        "code": "0005A6CA"
+    },
+    {
+        "name": "Mayor MacCready's Outfit [ARM]",
+        "code": "000340E7"
+    },
+    {
+        "name": "Merc Adventurer Outfit [ARM]",
+        "code": "00034124"
+    },
+    {
+        "name": "Merc Charmer Outfit [ARM]",
+        "code": "00034122"
+    },
+    {
+        "name": "Merc Cruiser Outfit [ARM]",
+        "code": "000CB60B"
+    },
+    {
+        "name": "Merc Grunt Outfit [ARM]",
+        "code": "000CB60A"
+    },
+    {
+        "name": "Merc Troublemaker Outfit [ARM]",
+        "code": "00034123"
+    },
+    {
+        "name": "Merc Veteran Outfit [ARM]",
+        "code": "0008C83C"
+    },
+    {
+        "name": "Metal Armor [ARM]",
+        "code": "0003307F"
+    },
+    {
+        "name": "Metal Helmet [ARM]",
+        "code": "00033080"
+    },
+    {
+        "name": "Modified Utility Jumpsuit [ARM]",
+        "code": "0007C17C"
+    },
+    {
+        "name": "Motorcycle Helmet [ARM]",
+        "code": "0009B186"
+    },
+    {
+        "name": "Mysterious Stranger Hat [ARM]",
+        "code": "0006B467"
+    },
+    {
+        "name": "Mysterious Stranger Outfit [ARM]",
+        "code": "0006696D"
+    },
+    {
+        "name": "Naughty Nightwear [ARM]",
+        "code": "000C8E07"
+    },
+    {
+        "name": "Oasis Druid Hood [ARM]",
+        "code": "0009B18A"
+    },
+    {
+        "name": "Oasis Exile Hood [ARM]",
+        "code": "000C942D"
+    },
+    {
+        "name": "Oasis Robe [ARM]",
+        "code": "000340E8"
+    },
+    {
+        "name": "Oasis Villager Robe [ARM]",
+        "code": "000340E9"
+    },
+    {
+        "name": "Outcast Power Armor [ARM]",
+        "code": "00060C70"
+    },
+    {
+        "name": "Outcast Power Helmet [ARM]",
+        "code": "00060C72"
+    },
+    {
+        "name": "Outcast Recon Helmet [ARM]",
+        "code": "000645ED"
+    },
+    {
+        "name": "Party Hat [ARM]",
+        "code": "00050E44"
+    },
+    {
+        "name": "Party Hat Stanley [ARM]",
+        "code": "000B75E2"
+    },
+    {
+        "name": "Pint-Sized Slasher Mask [ARM]",
+        "code": "000340FC"
+    },
+    {
+        "name": "Police Hat [ARM]",
+        "code": "000AB491"
+    },
+    {
+        "name": "Poplar's Hood [ARM]",
+        "code": "0005A6CB"
+    },
+    {
+        "name": "Power Armor [ARM]",
+        "code": "00025083"
+    },
+    {
+        "name": "Power Helmet [ARM]",
+        "code": "00014C08"
+    },
+    {
+        "name": "Power-Suit Armor [ARM]",
+        "code": "000CB60C"
+    },
+    {
+        "name": "Pre-War Baseball Cap [ARM]",
+        "code": "00028FF9"
+    },
+    {
+        "name": "Pre-War Bonnet [ARM]",
+        "code": "000340CD"
+    },
+    {
+        "name": "Pre-War Casualwear [ARM]",
+        "code": "0001EA6D"
+    },
+    {
+        "name": "Pre-War Hat [ARM]",
+        "code": "000340C8"
+    },
+    {
+        "name": "Pre-War Kid's Outfit [ARM]",
+        "code": "000340C3"
+    },
+    {
+        "name": "Pre-War Outfit and Watch [ARM]",
+        "code": "000ABBE2"
+    },
+    {
+        "name": "Pre-War Parkstroller Outfit [ARM]",
+        "code": "0005BB66"
+    },
+    {
+        "name": "Pre-War Relaxedwear [ARM]",
+        "code": "0005BB63"
+    },
+    {
+        "name": "Pre-War Spring Outfit [ARM]",
+        "code": "000340D0"
+    },
+    {
+        "name": "Prototype Medic Power Armor [ARM]",
+        "code": "0007836E"
+    },
+    {
+        "name": "Pyro Helmet [ARM]",
+        "code": "000CB600"
+    },
+    {
+        "name": "Radiation Suit [ARM]",
+        "code": "00033078"
+    },
+    {
+        "name": "Ragamuffin Outfit [ARM]",
+        "code": "000340F8"
+    },
+    {
+        "name": "Ragamuffin Tophat [ARM]",
+        "code": "00074950"
+    },
+    {
+        "name": "Raider Arclight Helmet [ARM]",
+        "code": "00078644"
+    },
+    {
+        "name": "Raider Badlands Armor [ARM]",
+        "code": "0003307D"
+    },
+    {
+        "name": "Raider Blastmaster Armor [ARM]",
+        "code": "0003307E"
+    },
+    {
+        "name": "Raider Painspike Armor [ARM]",
+        "code": "0002042F"
+    },
+    {
+        "name": "Raider Psycho-Tic Helmet [ARM]",
+        "code": "00020432"
+    },
+    {
+        "name": "Raider Sadist Armor [ARM]",
+        "code": "0003307C"
+    },
+    {
+        "name": "Raider Wastehound Helmet [ARM]",
+        "code": "00078645"
+    },
+    {
+        "name": "Ranger Battle Armor [ARM]",
+        "code": "00023030"
+    },
+    {
+        "name": "Ranger Battle Helmet [ARM]",
+        "code": "00034105"
+    },
+    {
+        "name": "Recon Armor [ARM]",
+        "code": "0003064D"
+    },
+    {
+        "name": "Recon Armor Helmet [ARM]",
+        "code": "00028EAD"
+    },
+    {
+        "name": "Red Racer Jumpsuit [ARM]",
+        "code": "0003411B"
+    },
+    {
+        "name": "Red's Bandana [ARM]",
+        "code": "000340EB"
+    },
+    {
+        "name": "Red's Jumpsuit [ARM]",
+        "code": "000340EA"
+    },
+    {
+        "name": "Regulator Duster [ARM]",
+        "code": "0003E54A"
+    },
+    {
+        "name": "Rivet City Security Helmet [ARM]",
+        "code": "000239CB"
+    },
+    {
+        "name": "Rivet City Security Uniform [ARM]",
+        "code": "000239CC"
+    },
+    {
+        "name": "Road Rascal Leather Armor [ARM]",
+        "code": "000CB5F5"
+    },
+    {
+        "name": "RobCo Jumpsuit [ARM]",
+        "code": "0003411A"
+    },
+    {
+        "name": "Robo-Thor Helmet [ARM]",
+        "code": "000CB5F8"
+    },
+    {
+        "name": "Roving Trader Hat [ARM]",
+        "code": "00078648"
+    },
+    {
+        "name": "Roving Trader Outfit [ARM]",
+        "code": "0002B385"
+    },
+    {
+        "name": "Scientist Outfit [ARM]",
+        "code": "000340D9"
+    },
+    {
+        "name": "Sexy Sleepwear [ARM]",
+        "code": "000340E6"
+    },
+    {
+        "name": "Shady Hat [ARM]",
+        "code": "0007C17D"
+    },
+    {
+        "name": "Sharp-Dressed Raider's Armor [ARM]",
+        "code": "000CB5FC"
+    },
+    {
+        "name": "Shellshocked Combat Armor [ARM]",
+        "code": "000CB5EF"
+    },
+    {
+        "name": "Shellshocked Combat Helmet [ARM]",
+        "code": "000CB5F0"
+    },
+    {
+        "name": "Sheriff's Duster [ARM]",
+        "code": "00020429"
+    },
+    {
+        "name": "Sheriff's Hat [ARM]",
+        "code": "0002DD80"
+    },
+    {
+        "name": "Slave Collar [ARM]",
+        "code": "0002F563"
+    },
+    {
+        "name": "Slave Collar [ARM]",
+        "code": "0003D1FE"
+    },
+    {
+        "name": "Sleepwear [ARM]",
+        "code": "000CB60E"
+    },
+    {
+        "name": "Stormchaser Hat [ARM]",
+        "code": "0009B189"
+    },
+    {
+        "name": "Sunglasses [ARM]",
+        "code": "0005C99F"
+    },
+    {
+        "name": "Surgical Mask [ARM]",
+        "code": "0003E591"
+    },
+    {
+        "name": "T-51b Power Armor [ARM]",
+        "code": "000A6F77"
+    },
+    {
+        "name": "T-51b Power Helmet [ARM]",
+        "code": "000A6F78"
+    },
+    {
+        "name": "Takoma Park Little Leaguer Cap [ARM]",
+        "code": "000C72FB"
+    },
+    {
+        "name": "Talon Combat Armor [ARM]",
+        "code": "000A6F76"
+    },
+    {
+        "name": "Talon Combat Helmet [ARM]",
+        "code": "000B0278"
+    },
+    {
+        "name": "Tenpenny Security Helmet [ARM]",
+        "code": "0005B6EB"
+    },
+    {
+        "name": "Tenpenny Security Uniform [ARM]",
+        "code": "00034119"
+    },
+    {
+        "name": "Tenpenny's Suit [ARM]",
+        "code": "00096CB7"
+    },
+    {
+        "name": "Tesla Armor [ARM]",
+        "code": "0006B464"
+    },
+    {
+        "name": "Tesla Armor [ARM]",
+        "code": "0008F571"
+    },
+    {
+        "name": "Tesla Helmet [ARM]",
+        "code": "0006B465"
+    },
+    {
+        "name": "The AntAgonizer's Costume [ARM]",
+        "code": "0003411D"
+    },
+    {
+        "name": "The AntAgonizer's Helmet [ARM]",
+        "code": "0003411F"
+    },
+    {
+        "name": "The Devil's Pigtails [ARM]",
+        "code": "000CB5FD"
+    },
+    {
+        "name": "The Mechanist's Costume [ARM]",
+        "code": "0003411E"
+    },
+    {
+        "name": "The Mechanist's Helmet [ARM]",
+        "code": "00034120"
+    },
+    {
+        "name": "The Surgeon's Lab Coat [ARM]",
+        "code": "000C71E1"
+    },
+    {
+        "name": "Three Dog's Glasses [ARM]",
+        "code": "000ACDA4"
+    },
+    {
+        "name": "Three Dog's Head Wrap [ARM]",
+        "code": "00073FEC"
+    },
+    {
+        "name": "Tinted Reading Glasses [ARM]",
+        "code": "0001C295"
+    },
+    {
+        "name": "Torcher's Mask [ARM]",
+        "code": "000C7C4E"
+    },
+    {
+        "name": "Tortiseshell Glasses [ARM]",
+        "code": "0005C9A1"
+    },
+    {
+        "name": "Tunnel Snake Outfit [ARM]",
+        "code": "00061D98"
+    },
+    {
+        "name": "Underwear [ARM]",
+        "code": "00089B52"
+    },
+    {
+        "name": "Vance's Longcoat Outfit [ARM]",
+        "code": "00083C5C"
+    },
+    {
+        "name": "Vault 101 Child's Jumpsuit [ARM]",
+        "code": "000340F2"
+    },
+    {
+        "name": "Vault 101 Security Armor [ARM]",
+        "code": "0001CBDD"
+    },
+    {
+        "name": "Vault 101 Security Helmet [ARM]",
+        "code": "0003411C"
+    },
+    {
+        "name": "Vault 101 Utility Jumpsuit [ARM]",
+        "code": "000425BA"
+    },
+    {
+        "name": "Vault 106 Jumpsuit [ARM]",
+        "code": "000B73F2"
+    },
+    {
+        "name": "Vault 108 Jumpsuit [ARM]",
+        "code": "000B73F1"
+    },
+    {
+        "name": "Vault 112 Jumpsuit [ARM]",
+        "code": "000340EF"
+    },
+    {
+        "name": "Vault 77 Jumpsuit [ARM]",
+        "code": "000CAFBE"
+    },
+    {
+        "name": "Vault 87 Jumpsuit [ARM]",
+        "code": "000340ED"
+    },
+    {
+        "name": "Vault 92 Jumpsuit [ARM]",
+        "code": "000B73F3"
+    },
+    {
+        "name": "Vault Lab Uniform [ARM]",
+        "code": "0001CBDC"
+    },
+    {
+        "name": "Wanderer's Leather Armor [ARM]",
+        "code": "000C7C54"
+    },
+    {
+        "name": "Wasteland Doctor Fatigues [ARM]",
+        "code": "000340FE"
+    },
+    {
+        "name": "Wasteland Legend Outfit [ARM]",
+        "code": "000CB609"
+    },
+    {
+        "name": "Wasteland Scout Hat [ARM]",
+        "code": "00074952"
+    },
+    {
+        "name": "Wasteland Scout Uniform [ARM]",
+        "code": "000340FA"
+    },
+    {
+        "name": "Wasteland Surgeon Outfit [ARM]",
+        "code": "000340FF"
+    },
+    {
+        "name": "Wasteland Wanderer Outfit [ARM]",
+        "code": "0001BA00"
+    },
+    {
+        "name": "Big Book of Science [BOOK]",
+        "code": "0002D3A4"
+    },
+    {
+        "name": "Chinese Army: Spec. Ops. Training Manual [BOOK]",
+        "code": "00034045"
+    },
+    {
+        "name": "D.C. Journal of Internal Medicine [BOOK]",
+        "code": "00034043"
+    },
+    {
+        "name": "Dean's Electronics [BOOK]",
+        "code": "0003403D"
+    },
+    {
+        "name": "Duck and Cover! [BOOK]",
+        "code": "0006A80C"
+    },
+    {
+        "name": "Footlocker [BOOK]",
+        "code": "000199C2"
+    },
+    {
+        "name": "Grognak the Barbarian [BOOK]",
+        "code": "00034040"
+    },
+    {
+        "name": "Guns and Bullets [BOOK]",
+        "code": "0003403E"
+    },
+    {
+        "name": "Lying, Congressional Style [BOOK]",
+        "code": "00034044"
+    },
+    {
+        "name": "Motivational Secrets of the Stars [BOOK]",
+        "code": "0002D3A3"
+    },
+    {
+        "name": "Nikola Tesla and You [BOOK]",
+        "code": "00034041"
+    },
+    {
+        "name": "Paradise Lost [BOOK]",
+        "code": "000BACFE"
+    },
+    {
+        "name": "Pugilism Illustrated [BOOK]",
+        "code": "0003403F"
+    },
+    {
+        "name": "Survival Guide Manuscript [BOOK]",
+        "code": "0002D3B2"
+    },
+    {
+        "name": "Tales of a Junktown Jerky Vendor [BOOK]",
+        "code": "00034042"
+    },
+    {
+        "name": "Tumblers Today [BOOK]",
+        "code": "00034046"
+    },
+    {
+        "name": "U.S. Army: 30 Handy Flamethrower Recipes [BOOK]",
+        "code": "00034048"
+    },
+    {
+        "name": "Wasteland Survival Guide [BOOK]",
+        "code": "000C5634"
+    },
+    {
+        "name": "You're SPECIAL! [BOOK]",
+        "code": "000AB2EF"
+    },
+    {
+        "name": "dart gun [SCHM]",
+        "code": "000BAFFA"
+    },
+    {
+        "name": "bottlecap mine [SCHM]",
+        "code": "000BAFFB"
+    },
+    {
+        "name": "deathclaw gauntlet [SCHM]",
+        "code": "000BAFFC"
+    },
+    {
+        "name": "nuka-grenade [SCHM]",
+        "code": "000BAFFD"
+    },
+    {
+        "name": "railway rifle [SCHM]",
+        "code": "000BAFFE"
+    },
+    {
+        "name": "rock-it launcher [SCHM]",
+        "code": "000BAFFF"
+    },
+    {
+        "name": "shishkebab [SCHM]",
+        "code": "000BB000"
+    },
+    {
+        "name": ".32 Pistol [WEP]",
+        "code": "0000080A"
+    },
+    {
+        "name": ".44 magnum [WEP]",
+        "code": "00050F92"
+    },
+    {
+        "name": "10mm Pistol [WEP]",
+        "code": "0001A334"
+    },
+    {
+        "name": "10mm Sub Machine gun [WEP]",
+        "code": "00004321"
+    },
+    {
+        "name": "Alien Blaster [WEP]",
+        "code": "00004322"
+    },
+    {
+        "name": "Ant's Sting [WEP]",
+        "code": "000C553E"
+    },
+    {
+        "name": "Assault Rifle [WEP]",
+        "code": "0001FFEC"
+    },
+    {
+        "name": "Baseball Bat [WEP]",
+        "code": "0000421C"
+    },
+    {
+        "name": "BB Gun [WEP]",
+        "code": "000C0327"
+    },
+    {
+        "name": "Black Bart's Bane [WEP]",
+        "code": "0006B535"
+    },
+    {
+        "name": "Blackhawk [WEP]",
+        "code": "000303A2"
+    },
+    {
+        "name": "Board of Education [WEP]",
+        "code": "000C310F"
+    },
+    {
+        "name": "Bottlecap Mine [WEP]",
+        "code": "0000433A"
+    },
+    {
+        "name": "Brass Knuckles [WEP]",
+        "code": "00004324"
+    },
+    {
+        "name": "Breaker [WEP]",
+        "code": "000CB546"
+    },
+    {
+        "name": "Buzzsaw [WEP]",
+        "code": "0003BC6F"
+    },
+    {
+        "name": "Chinese Assault Rifle [WEP]",
+        "code": "00046BDD"
+    },
+    {
+        "name": "Chinese Officer's Sword [WEP]",
+        "code": "0006415D"
+    },
+    {
+        "name": "Chinese Pistol [WEP]",
+        "code": "00004325"
+    },
+    {
+        "name": "Combat Knife [WEP]",
+        "code": "00064093"
+    },
+    {
+        "name": "Combat Shotgun [WEP]",
+        "code": "0003713D"
+    },
+    {
+        "name": "Combat Shotgun [WEP]",
+        "code": "00004327"
+    },
+    {
+        "name": "Dart Gun [WEP]",
+        "code": "0000432A"
+    },
+    {
+        "name": "Deathclaw Gauntlet [WEP]",
+        "code": "0000432B"
+    },
+    {
+        "name": "Electrical Zap [WEP]",
+        "code": "00022FF1"
+    },
+    {
+        "name": "Eugene [WEP]",
+        "code": "0006B538"
+    },
+    {
+        "name": "Excalibat [WEP]",
+        "code": "000C80BC"
+    },
+    {
+        "name": "Fat Man [WEP]",
+        "code": "0000432C"
+    },
+    {
+        "name": "Fire Hydrant [WEP]",
+        "code": "00021367"
+    },
+    {
+        "name": "Flamer [WEP]",
+        "code": "00039550"
+    },
+    {
+        "name": "Frag Grenade [WEP]",
+        "code": "00004330"
+    },
+    {
+        "name": "Frag Mine [WEP]",
+        "code": "00028172"
+    },
+    {
+        "name": "GasTrap Dummy [WEP]",
+        "code": "000001F6"
+    },
+    {
+        "name": "Gatling Laser [WEP]",
+        "code": "0000432E"
+    },
+    {
+        "name": "Hand Laser [WEP]",
+        "code": "00018B9E"
+    },
+    {
+        "name": "Hunting Rifle [WEP]",
+        "code": "00004333"
+    },
+    {
+        "name": "Jack [WEP]",
+        "code": "000C6E5B"
+    },
+    {
+        "name": "Knife [WEP]",
+        "code": "00004334"
+    },
+    {
+        "name": "Laser [WEP]",
+        "code": "0007B237"
+    },
+    {
+        "name": "Laser Pistol [WEP]",
+        "code": "00004335"
+    },
+    {
+        "name": "Laser Rifle [WEP]",
+        "code": "00074795"
+    },
+    {
+        "name": "Laser Rifle [WEP]",
+        "code": "00004336"
+    },
+    {
+        "name": "Lead Pipe [WEP]",
+        "code": "00004337"
+    },
+    {
+        "name": "Liberty Laser [WEP]",
+        "code": "00033FE2"
+    },
+    {
+        "name": "LibertyPrimeWeapBomb [WEP]",
+        "code": "0005932F"
+    },
+    {
+        "name": "Mesmeron [WEP]",
+        "code": "00004339"
+    },
+    {
+        "name": "Mesmetron [WEP]",
+        "code": "000BF5A4"
+    },
+    {
+        "name": "Minigun [WEP]",
+        "code": "0000433F"
+    },
+    {
+        "name": "Mirelurk Bait Grenade [WEP]",
+        "code": "00030664"
+    },
+    {
+        "name": "Miss Launcher [WEP]",
+        "code": "000B2644"
+    },
+    {
+        "name": "Missile Launcher [WEP]",
+        "code": "00057E8F"
+    },
+    {
+        "name": "Nail Board [WEP]",
+        "code": "000A01DD"
+    },
+    {
+        "name": "Nuka-Grenade [WEP]",
+        "code": "00004342"
+    },
+    {
+        "name": "Plasma Grenade [WEP]",
+        "code": "00004332"
+    },
+    {
+        "name": "Plasma Gun [WEP]",
+        "code": "0003954F"
+    },
+    {
+        "name": "Plasma Mine [WEP]",
+        "code": "0000433D"
+    },
+    {
+        "name": "Plasma Pistol [WEP]",
+        "code": "00004343"
+    },
+    {
+        "name": "Plasma Rifle [WEP]",
+        "code": "00004344"
+    },
+    {
+        "name": "Police Batton [WEP]",
+        "code": "00004345"
+    },
+    {
+        "name": "Pool Cue [WEP]",
+        "code": "00004346"
+    },
+    {
+        "name": "Power Fist [WEP]",
+        "code": "00004347"
+    },
+    {
+        "name": "Protectron's Gaze [WEP]",
+        "code": "000C553F"
+    },
+    {
+        "name": "Pulse Grenade [WEP]",
+        "code": "00004331"
+    },
+    {
+        "name": "Pulse Mine [WEP]",
+        "code": "0000433E"
+    },
+    {
+        "name": "Radioactive Spit [WEP]",
+        "code": "00058717"
+    },
+    {
+        "name": "Railway Rifle [WEP]",
+        "code": "00004348"
+    },
+    {
+        "name": "Repellent Stick [WEP]",
+        "code": "0002D3B7"
+    },
+    {
+        "name": "Reservist's Rifle [WEP]",
+        "code": "00092966"
+    },
+    {
+        "name": "Ripper [WEP]",
+        "code": "00004349"
+    },
+    {
+        "name": "Rock-it launcher [WEP]",
+        "code": "0000434B"
+    },
+    {
+        "name": "Rolling Pin [WEP]",
+        "code": "00029769"
+    },
+    {
+        "name": "Sawed-Off Shotgun [WEP]",
+        "code": "0000434C"
+    },
+    {
+        "name": "Scoped .44 Magnum [WEP]",
+        "code": "0000434D"
+    },
+    {
+        "name": "Shishkebab [WEP]",
+        "code": "0000434E"
+    },
+    {
+        "name": "Silenced 10mm Pistol [WEP]",
+        "code": "00004350"
+    },
+    {
+        "name": "Sledgehammer [WEP]",
+        "code": "00063FA2"
+    },
+    {
+        "name": "Sniper Rifle [WEP]",
+        "code": "00004353"
+    },
+    {
+        "name": "Spiked Knuckels [WEP]",
+        "code": "00004354"
+    },
+    {
+        "name": "Super Sledge [WEP]",
+        "code": "000B0E7C"
+    },
+    {
+        "name": "Switchblade [WEP]",
+        "code": "000289C3"
+    },
+    {
+        "name": "Tire Iron [WEP]",
+        "code": "00004328"
+    },
+    {
+        "name": "10mm SMG ( Sydneys \"Ultra\" ) [SPCWP]",
+        "code": "0006E7CC"
+    },
+    {
+        "name": "A3-21's Plasma Rifle [SPCWP]",
+        "code": "0006B539"
+    },
+    {
+        "name": "Burnmaster (Unique Flamer) [SPCWP]",
+        "code": "000C80BD"
+    },
+    {
+        "name": "Butch's Toothpick [SPCWP]",
+        "code": "00078440"
+    },
+    {
+        "name": "Chinese Pistol (Zhu-Rong v418 ) [SPCWP]",
+        "code": "00060C2C"
+    },
+    {
+        "name": "Clover's Cleaver [SPCWP]",
+        "code": "000C80B8"
+    },
+    {
+        "name": "Col. Autumn's 10mm Pistol [SPCWP]",
+        "code": "0006B531"
+    },
+    {
+        "name": "Col. Autumn's Laser Pistol [SPCWP]",
+        "code": "000ABBE4"
+    },
+    {
+        "name": "Curse Breaker [SPCWP]",
+        "code": "000C80BB"
+    },
+    {
+        "name": "Experimental MIRV [SPCWP]",
+        "code": "0003422B"
+    },
+    {
+        "name": "Fawkes' Super Sledge [SPCWP]",
+        "code": "0007843F"
+    },
+    {
+        "name": "Firelance [SPCWP]",
+        "code": "000C80BA"
+    },
+    {
+        "name": "Fisto! [SPCWP]",
+        "code": "000CB601"
+    },
+    {
+        "name": "Highwayman's Friend [SPCWP]",
+        "code": "00078442"
+    },
+    {
+        "name": "Law Dog [SPCWP]",
+        "code": "0006B532"
+    },
+    {
+        "name": "Lincoln's Repeater [SPCWP]",
+        "code": "0003C07A"
+    },
+    {
+        "name": "Love Tap [SPCWP]",
+        "code": "000C80B9"
+    },
+    {
+        "name": "O'Grady's Peacemaker [SPCWP]",
+        "code": "0007843D"
+    },
+    {
+        "name": "Occam's Razor [SPCWP]",
+        "code": "000CB602"
+    },
+    {
+        "name": "Ol' Painless [SPCWP]",
+        "code": "00066C76"
+    },
+    {
+        "name": "Plunkett's Valid Points [SPCWP]",
+        "code": "000CAFA9"
+    },
+    {
+        "name": "Shriek [SPCWP]",
+        "code": "0007F598"
+    },
+    {
+        "name": "Slasher Knife [SPCWP]",
+        "code": "0002869C"
+    },
+    {
+        "name": "Smuglers End (Laser Pistol) [SPCWP]",
+        "code": "0006B536"
+    },
+    {
+        "name": "Stabhappy [SPCWP]",
+        "code": "000C80BE"
+    },
+    {
+        "name": "Sydney's 10mm \"Ultra\" SMG [SPCWP]",
+        "code": "0005DEEE"
+    },
+    {
+        "name": "The Break [SPCWP]",
+        "code": "00066C77"
+    },
+    {
+        "name": "The Kneecapper [SPCWP]",
+        "code": "0006B53A"
+    },
+    {
+        "name": "The Shocker [SPCWP]",
+        "code": "000BFF62"
+    },
+    {
+        "name": "The Tenderizer [SPCWP]",
+        "code": "000A874B"
+    },
+    {
+        "name": "The Terrible Shotgun [SPCWP]",
+        "code": "0006B534"
+    },
+    {
+        "name": "Vengeance (Gatling Laser) [SPCWP]",
+        "code": "000CB547"
+    },
+    {
+        "name": "Vampire's Edge [SPCWP]",
+        "code": "00078441"
+    },
+    {
+        "name": "Victory Rifle [SPCWP]",
+        "code": "000CB548"
+    },
+    {
+        "name": "Wazer Wifle [SPCWP]",
+        "code": "00061793"
+    },
+    {
+        "name": ".308 Caliber Round [AMMO]",
+        "code": "0006B53C"
+    },
+    {
+        "name": ".32 Caliber Round [AMMO]",
+        "code": "000207F7"
+    },
+    {
+        "name": ".44 Round Magnum [AMMO]",
+        "code": "0002937E"
+    },
+    {
+        "name": "10mm Round [AMMO]",
+        "code": "00004241"
+    },
+    {
+        "name": "5.56mm Round [AMMO]",
+        "code": "00078CC4"
+    },
+    {
+        "name": "5mm Round [AMMO]",
+        "code": "0006B53D"
+    },
+    {
+        "name": "Alien Powercell [AMMO]",
+        "code": "00029364"
+    },
+    {
+        "name": "BB - Ammo [AMMO]",
+        "code": "0002935B"
+    },
+    {
+        "name": "Bottlecap Mines [AMMO]",
+        "code": "0000433A"
+    },
+    {
+        "name": "Dart [AMMO]",
+        "code": "00047419"
+    },
+    {
+        "name": "Electron Charge Pack [AMMO]",
+        "code": "0006B53E"
+    },
+    {
+        "name": "Energy Cell [AMMO]",
+        "code": "00020772"
+    },
+    {
+        "name": "Flamer Fuel [AMMO]",
+        "code": "00029371"
+    },
+    {
+        "name": "Frag Grenades [AMMO]",
+        "code": "00004330"
+    },
+    {
+        "name": "Frag Mines [AMMO]",
+        "code": "0000433C"
+    },
+    {
+        "name": "Mesmetron Power Cell [AMMO]",
+        "code": "0006A80D"
+    },
+    {
+        "name": "Microfusion Cell [AMMO]",
+        "code": "00004485"
+    },
+    {
+        "name": "Mini Nuke [AMMO]",
+        "code": "00020799"
+    },
+    {
+        "name": "Missile [AMMO]",
+        "code": "000B8791"
+    },
+    {
+        "name": "Pulse Grenades [AMMO]",
+        "code": "00004331"
+    },
+    {
+        "name": "Railway Spikes [AMMO]",
+        "code": "00029384"
+    },
+    {
+        "name": "Shotgun Shell [AMMO]",
+        "code": "00028EEA"
+    },
+    {
+        "name": "Sonic Energy [AMMO]",
+        "code": "00056634"
+    },
+    {
+        "name": "Admantium Skeleton [PRK]",
+        "code": "00094EC4"
+    },
+    {
+        "name": "Action Boy [PRK]",
+        "code": "00031DBA"
+    },
+    {
+        "name": "Action Girl [PRK]",
+        "code": "0007B202"
+    },
+    {
+        "name": "Animal Friend [PRK]",
+        "code": "00031DB5"
+    },
+    {
+        "name": "Better Criticals [PRK]",
+        "code": "00031DBB"
+    },
+    {
+        "name": "Black Widow [PRK]",
+        "code": "00094EB8"
+    },
+    {
+        "name": "Bloody Mess [PRK]",
+        "code": "00094EBA"
+    },
+    {
+        "name": "Cannibal [PRK]",
+        "code": "00094EBC"
+    },
+    {
+        "name": "Chemist [PRK]",
+        "code": "0009982D"
+    },
+    {
+        "name": "Chem Resistant [PRK]",
+        "code": "00099827"
+    },
+    {
+        "name": "Child at Heart [PRK]",
+        "code": "00003142"
+    },
+    {
+        "name": "Commando [PRK]",
+        "code": "00099828"
+    },
+    {
+        "name": "Comprehension [PRK]",
+        "code": "00031DE1"
+    },
+    {
+        "name": "Computer Wiz [PRK]",
+        "code": "00031DC4"
+    },
+    {
+        "name": "Concentrated Fire [PRK]",
+        "code": "00044CAF"
+    },
+    {
+        "name": "Contract Killer [PRK]",
+        "code": "00044CA8"
+    },
+    {
+        "name": "Cyborg [PRK]",
+        "code": "00044CAB"
+    },
+    {
+        "name": "Daddy's Boy [PRK]",
+        "code": "00044948"
+    },
+    {
+        "name": "Daddy's Girl [PRK]",
+        "code": "00069310"
+    },
+    {
+        "name": "Demolition Expert [PRK]",
+        "code": "00031DAB"
+    },
+    {
+        "name": "Educated [PRK]",
+        "code": "00031DD8"
+    },
+    {
+        "name": "Explorer [PRK]",
+        "code": "00031DE5"
+    },
+    {
+        "name": "Entomologist [PRK]",
+        "code": "00031DD9"
+    },
+    {
+        "name": "Fast Metabolism [PRK]",
+        "code": "00094EBF"
+    },
+    {
+        "name": "Finesse [PRK]",
+        "code": "00094EC1"
+    },
+    {
+        "name": "Fortune Finder [PRK]",
+        "code": "00031DE3"
+    },
+    {
+        "name": "Grim Reaper Spirit [PRK]",
+        "code": "00099834"
+    },
+    {
+        "name": "Gun Nut [PRK]",
+        "code": "0004494E"
+    },
+    {
+        "name": "Gunslinger [PRK]",
+        "code": "00094EBB"
+    },
+    {
+        "name": "Here and Now [PRK]",
+        "code": "00031DAC"
+    },
+    {
+        "name": "Impartial Meditation [PRK]",
+        "code": "00044CAD"
+    },
+    {
+        "name": "Infiltrator [PRK]",
+        "code": "00044CB0"
+    },
+    {
+        "name": "Intense Training [PRK]",
+        "code": "00044CB1"
+    },
+    {
+        "name": "Iron Fist [PRK]",
+        "code": "00031DDB"
+    },
+    {
+        "name": "Lady Killer [PRK]",
+        "code": "00094EB9"
+    },
+    {
+        "name": "Law Bringer [PRK]",
+        "code": "00044CAC"
+    },
+    {
+        "name": "Lead Belly [PRK]",
+        "code": "00044CA9"
+    },
+    {
+        "name": "Light Step [PRK]",
+        "code": "00031DB7"
+    },
+    {
+        "name": "Life Giver [PRK]",
+        "code": "00031DB1"
+    },
+    {
+        "name": "Little Leaguer [PRK]",
+        "code": "00014B97"
+    },
+    {
+        "name": "Master Trader [PRK]",
+        "code": "00031DB8"
+    },
+    {
+        "name": "Mister Sandman [PRK]",
+        "code": "00031DAD"
+    },
+    {
+        "name": "Mysterious Stranger [PRK]",
+        "code": "00031DBC"
+    },
+    {
+        "name": "Nerd Rage [PRK]",
+        "code": "00044CA7"
+    },
+    {
+        "name": "Night Person [PRK]",
+        "code": "00094EBD"
+    },
+    {
+        "name": "Ninja [PRK]",
+        "code": "00031DCC"
+    },
+    {
+        "name": "Paralyzing Palm [PRK]",
+        "code": "00044CAA"
+    },
+    {
+        "name": "PyroManiac [PRK]",
+        "code": "00031DB2"
+    },
+    {
+        "name": "Rad Resistance [PRK]",
+        "code": "00031DA9"
+    },
+    {
+        "name": "Scoundrel [PRK]",
+        "code": "00044CA6"
+    },
+    {
+        "name": "Scrounger [PRK]",
+        "code": "00031DAA"
+    },
+    {
+        "name": "Silent Running [PRK]",
+        "code": "00031DB3"
+    },
+    {
+        "name": "Size Matters [PRK]",
+        "code": "0009982E"
+    },
+    {
+        "name": "Sniper [PRK]",
+        "code": "00031DB4"
+    },
+    {
+        "name": "Solar Powered [PRK]",
+        "code": "00031DC5"
+    },
+    {
+        "name": "Strong Back [PRK]",
+        "code": "00031DDE"
+    },
+    {
+        "name": "Swift Learner [PRK]",
+        "code": "00031DD3"
+    },
+    {
+        "name": "Tag [PRK]",
+        "code": "00031DBD"
+    },
+    {
+        "name": "Thief [PRK]",
+        "code": "00031DD6"
+    },
+    {
+        "name": "Toughness [PRK]",
+        "code": "00031DE0"
+    },
+    {
+        "name": "Well Rested [PRK]",
+        "code": "00061822"
+    },
+    {
+        "name": "Ant Senses [QSTPRK]",
+        "code": "000C1A6C"
+    },
+    {
+        "name": "Ant Strength [QSTPRK]",
+        "code": "000C1A6B"
+    },
+    {
+        "name": "Barkskin [QSTPRK]",
+        "code": "00035E04"
+    },
+    {
+        "name": "Dream Crusher [QSTPRK]",
+        "code": "00030FEB"
+    },
+    {
+        "name": "Hemophiliac [QSTPRK]",
+        "code": "00003131"
+    },
+    {
+        "name": "PowerArmor Training [QSTPRK]",
+        "code": "00058FDF"
+    },
+    {
+        "name": "Rad Regeneration [QSTPRK]",
+        "code": "0003066B"
+    },
+    {
+        "name": "Wired Reflexes [QSTPRK]",
+        "code": "00024D5C"
+    }
+]
