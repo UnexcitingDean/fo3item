@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fallout 3 Item Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('bg.jpg');
+            background-size: cover; /* Ensure the background image covers the entire viewport */
+            background-position: center;
+            background-attachment: fixed; /* Fix the background image */
+            }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        .notice {
+            background-color: #c0c0c0;
+            border-left: 6px solid #2196F3;
+            padding: 20px;
+            margin-bottom: 20px;
+            cursor: default;
+        }
+        .close-btn {
+            float: right;
+            cursor: pointer;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        li {
+            width: calc(50% - 10px); /* Adjust item width based on screen size */
+            margin-bottom: 10px;
+            border-radius: 5px;
+            padding: 5px;
+            box-sizing: border-box;
+            cursor: pointer;
+        }
+        .item-name {
+            margin-bottom: 5px;
+        }
+        .item-id {
+            color: #666;
+            font-size: 0.8em;
+        }
+        .item:hover {
+            background-color: #c0c0c0;
+        }
+        .item {
+            border: 1px solid #ddd;
+            margin-bottom: 10px;
+            padding: 10px;
+            cursor: pointer;
+            background-color: #f9f9f9;
+        }
+        .search-results {
+            list-style-type: none;
+            padding: 0;
+        }
+        .copied-message {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            opacity: 1;
+            transition: opacity 0.5s ease-in-out;
+        }
+
+        .copied-message.fade-out {
+            opacity: 0;
+        }
+        .notice {
+            background-color: #f9f9f9;
+            border-left: 6px solid #2196F3;
+            padding: 5px 10px;
+            margin-bottom: 20px;
+        }
+
+        .notice p {
+            margin: 0;
+        }
+
+        .abbreviation-list {
+        padding-left: 20px;
+        list-style: none;
+        margin: 0;
+        }
+
+        .abbreviation-list li {
+        margin-bottom: 2px;
+        display: inline;
+        margin-right: 10px;    
+        }
+
+        .notice li {
+        cursor: default;
+        }
+
+        .stext {
+        color: #c0c0c0; /* Light grey color */
+        font-size: 10px; /* Small font size */
+        text-align: center; /* Center-align the text */
+        }
+
+        h1 {
+            color: #c0c0c0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Fallout 3 Item Search</h1>
+    <div class="notice">
+    <span class="close-btn" onclick="closeNotice()">X</span>
+    <p><strong>Abbreviations:</strong></p>
+    <ul class="abbreviation-list">
+        <li><strong style="color: blue;">ARM:</strong> Armor</li>
+        <li><strong style="color: green;">BOOK:</strong> Books</li>
+        <li><strong style="color: orange;">SCHM:</strong> Schematics</li>
+        <li><strong style="color: red;">WEP:</strong> Weapons</li>
+        <li><strong style="color: purple;">SPCWP:</strong> Special Weapons</li>
+        <li><strong style="color: brown;">AMMO:</strong> Ammo</li>
+        <li><strong style="color: teal;">PRK:</strong> Perks</li>
+        <li><strong style="color: gray;">QSTPRK:</strong> Quest perks</li>
+        <li><strong style="color: pink;">SRVPRK:</strong> Survivor perks</li>
+    </ul>
+</div>
+    <input type="text" id="searchInput" placeholder="Search items...">
+    <ul id="searchResults"></ul>
+</div>
+
+
+<script>
+    let noticeClosed = false;
+
+    function closeNotice() {
+        const notice = document.querySelector('.notice');
+        notice.style.display = 'none';
+        noticeClosed = true;
+    }
+
+// Define category colors object globally
+const categoryColors = {
+    "ARM": "blue",
+    "BOOK": "green",
+    "SCHM": "orange",
+    "WEP": "red",
+    "SPCWP": "purple",
+    "AMMO": "brown",
+    "PRK": "teal",
+    "QSTPRK": "gray",
+    "SRVPRK": "pink"
+};
+
+// Function to get category color based on category code
+function getCategoryColor(categoryCode) {
+    return categoryColors[categoryCode] || "black"; // Default to black if no color is found
+}
+
+// Function to get category code from item name
+function getCategoryCode(itemName) {
+    const abbreviationRegex = /\[(.*?)\]/; // Regular expression to match text within square brackets
+    const match = itemName.match(abbreviationRegex); // Attempt to find the abbreviation in the item name
+    if (match && match[1]) {
+        const abbreviation = match[1].toUpperCase(); // Extract the abbreviation from the matched text and convert to uppercase
+        switch (abbreviation) {
+            case "ARM":
+                return "ARM";
+            case "BOOK":
+                return "BOOK";
+            case "SCHM":
+                return "SCHM";
+            case "WEP":
+                return "WEP";
+            case "SPCWP":
+                return "SPCWP";
+            case "AMMO":
+                return "AMMO";
+            case "PRK":
+                return "PRK";
+            case "QSTPRK":
+                return "QSTPRK";
+            case "SRVPRK":
+                return "SRVPRK";
+            default:
+                return "Unknown"; // Add default category code or handle as necessary
+        }
+    } else {
+        return "Unknown"; // If no abbreviation is found, return unknown category code
+    }
+}
+
+
+// Function to perform search
+function searchItems(items) {
+    const searchTerm = document.getElementById("searchInput").value.trim().toLowerCase();
+    const searchResults = document.getElementById("searchResults");
+    searchResults.innerHTML = "";
+
+    if (searchTerm.length < 1) {
+        return;
+    }
+
+    // Filter and sort items alphabetically
+    const filteredItems = items.filter(item => item.name.toLowerCase().includes(searchTerm));
+    const sortedItems = filteredItems.sort((a, b) => a.name.localeCompare(b.name));
+
+    // Append sorted items to search results
+    sortedItems.forEach(item => {
+        const li = document.createElement("li");
+        li.classList.add("item");
+        const category = getCategoryCode(item.name);
+        const categoryColor = getCategoryColor(category);
+        li.innerHTML = `
+            <div class="item-name" style="color: ${categoryColor}">${item.name}</div>
+            <div class="item-id">${item.code}</div>
+        `;
+        li.addEventListener("click", function() {
+            copyToClipboard(item.code);
+        });
+        searchResults.appendChild(li);
+    });
+}
+
+    // Function to copy item ID to clipboard
+    function copyToClipboard(text) {
+        // Create a temporary textarea to copy the text to clipboard
+        const textarea = document.createElement("textarea");
+        textarea.value = text;
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand("copy");
+        document.body.removeChild(textarea);
+
+        // Create a message element to display on the page
+        const message = document.createElement("div");
+        message.textContent = "Item ID copied to clipboard: " + text;
+        message.classList.add("copied-message");
+        document.body.appendChild(message);
+
+        // Fade out the message after 5 seconds
+        setTimeout(() => {
+            message.style.opacity = "0";
+            setTimeout(() => {
+                document.body.removeChild(message);
+            }, 1000); // Wait for the fade-out animation to complete
+        }, 3000);
+    }
+
+    // Load JSON data from file
+    function loadJSON(callback) {
+        const xobj = new XMLHttpRequest();
+        xobj.overrideMimeType("application/json");
+        xobj.open('GET', 'fallout_3_item_list.json', true);
+        xobj.onreadystatechange = function () {
+            if (xobj.readyState === 4 && xobj.status === 200) {
+                callback(JSON.parse(xobj.responseText));
+            }
+        };
+        xobj.send(null);
+    }
+
+    // Event listener for input change
+    document.getElementById("searchInput").addEventListener("input", function() {
+        loadJSON(function(response) {
+            searchItems(response);
+        });
+    });
+
+    // Initial search
+    loadJSON(function(response) {
+        searchItems(response);
+    });
+</script>
+<p class="stext">List created by <i>sephiroth111</i>. Background: <i>alphacoders</i></p>
+</body>
+</html>
